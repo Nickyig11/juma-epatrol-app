@@ -30,36 +30,28 @@ He puesto un énfasis especial en el diseño de una interfaz de usuario clara e 
 ### Pantalla Principal (HomeFragment)
 
 El punto de partida de la aplicación, que ofrece acceso rápido a las principales funcionalidades. He diseñado esta pantalla para ser el centro de control.
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/68cdccf8-70d8-40e5-be3b-c172ba849602" />
+<img width="1073" height="620" alt="image" src="https://github.com/user-attachments/assets/db2e7e49-554d-4330-a14b-743eaf91cabc" />
 
 ### Lanzador de Aplicaciones (AppsFragment)
 
 He creado una sección dedicada a organizar y lanzar otras aplicaciones esenciales para el trabajo policial, garantizando que todo esté al alcance de la mano.
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/07ec730f-10ac-46fe-b6ae-e67df27ccc3e" />
-
-
-
+<img width="1078" height="619" alt="image" src="https://github.com/user-attachments/assets/a8a62afe-6a98-4a10-a1f2-000c087b5fc8" />
 
 ### Control de Luces (LucesFragment)
 
 Desarrollé esta interfaz para permitir el control directo de las luces del vehículo patrulla, una función crítica para la seguridad y la operativa.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7dda2d4e-8d5a-4119-8dee-01de131906be" />
-
-
-
+<img width="1079" height="631" alt="image" src="https://github.com/user-attachments/assets/27708cbe-809c-4ba7-be7a-90df17c768f2" />
 
 ### Formularios Inteligentes (FormulariosFragment / DenunciaFragment)
 
 Un ejemplo de cómo he diseñado los formularios para beneficiarse del autocompletado y la interacción inteligente, incluyendo la entrada de voz.
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/54d94832-f30d-4510-aeaf-d204d68996a9" />
+<img width="1077" height="618" alt="image" src="https://github.com/user-attachments/assets/ba3050dd-6d91-4a42-a9c6-735649a1c5f8" />
 
+### Radio Conmunicación (RadioFragment)
 
-
-
-### Grabación de Audio
-Creé esta interfaz para iniciar y detener grabaciones de audio, una característica esencial para la recolección de pruebas o declaraciones en el campo.
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f9165cce-7648-40a6-8d22-42d8215c86cd" />
+Este fragment tiene un botón central que lleva a una aplicacion de comunicación radio.
+<img width="1076" height="618" alt="image" src="https://github.com/user-attachments/assets/fac3fea0-ac67-4cf4-a64b-4626bc7fde35" />
 
 
 
@@ -67,7 +59,7 @@ Creé esta interfaz para iniciar y detener grabaciones de audio, una caracterís
 
 He implementado una pantalla dedicada donde los usuarios pueden firmar directamente en el dispositivo, lo que agiliza los procesos que requieren consentimiento o verificación.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1efefa7e-ddd0-4e68-a399-580aad10d709" />
+<img width="823" height="609" alt="image" src="https://github.com/user-attachments/assets/4c6ae9fe-c016-4384-989a-8054c3f08fbd" />
 
 
 
