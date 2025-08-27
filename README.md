@@ -217,4 +217,35 @@ def process_audio_in_memory(audio_bytes):
 
 
 
+### Tecnologías Utilizadas
+
+En el desarrollo de ePatrol, he empleado las siguientes tecnologías clave:
+
+*   **Kotlin:** El lenguaje principal para el desarrollo de la aplicación Android, elegido por su modernidad, seguridad y concisión.
+*   **Android SDK:** El conjunto de herramientas esenciales para construir la aplicación en la plataforma Android.
+*   **Android Jetpack Navigation Component:** Fundamental para la gestión de la navegación y la arquitectura modular de la UI.
+*   **Google Cloud Speech-to-Text API:** Para la potente y precisa transcripción de audio a texto.
+*   **Google Gemini API:** Integrado para el procesamiento inteligente del lenguaje natural y el llenado automático de formularios.
+*   **Python:** Utilizado en el backend para orquestar la transcripción, el procesamiento con IA y la comunicación con la aplicación.
+*   **`python-docx` (librería):** Empleada en el servidor para la generación dinámica de documentos Word.
+*   **(Mencionar cualquier otra librería o framework importante si la recuerdas, como Room, Retrofit, etc.)**
+
+## 💡 Conclusión y Futuras Mejoras
+
+Como creador de ePatrol, estoy convencido de que esta aplicación representa un salto significativo en la digitalización y optimización de las operaciones policiales. He logrado desarrollar una herramienta que no solo mejora la eficiencia de los agentes de Juma, sino que también establece un precedente para futuras innovaciones en el sector.
+
+Mis planes a futuro para ePatrol incluyen:
+
+*   **Integración de más hardware:** Expandir el control a otros sistemas del vehículo patrulla.
+*   **Análisis predictivo:** Utilizar la IA para ofrecer información relevante en tiempo real basada en datos históricos.
+*   **Módulos de entrenamiento interactivos:** Herramientas de capacitación integradas para nuevos agentes.
+*   **Mejoras en la accesibilidad:** Continuar optimizando la interfaz para diversas condiciones y usuarios.
+
+Este proyecto demuestra mi capacidad para desarrollar soluciones tecnológicas complejas y de alto impacto, combinando robustez técnica con una profunda comprensión de las necesidades del usuario.
+
+## 👨‍💻 Autor
+
+*   [Nicky Chinedu]
+
+
 
