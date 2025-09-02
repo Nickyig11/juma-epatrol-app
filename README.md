@@ -120,7 +120,7 @@ from google.oauth2 import service_account
 import form_filler_gemini # Módulo para la IA de llenado de formularios
 
 # La ruta a tus credenciales de Google Cloud
-KEY_FILE_PATH = '/home/nickyjuma6258/serverSpeach/keys/brave-server-467006-e1-30d8dab5fca1.json'
+KEY_FILE_PATH = '/home/nickyjuma6258/serverSpeach/keys/...'
 # Constantes para la transcripción
 LANGUAGE_CODE = "es-ES"
 SAMPLE_RATE = 44100
